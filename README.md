@@ -6,3 +6,4 @@ Estudante de tecnólogo em IA e Machine Learning. Atualmente aprendendo Python e
 
 - (em breve) Regressão Linear — Diabetes dataset
 - Regressão Linear — Diabetes dataset (Jupyter): MSE ≈ 2548, R² ≈ 0.47
+- Classificação — Titanic dataset (Jupyter): Logistic Regression, Accuracy ≈ 0.81
